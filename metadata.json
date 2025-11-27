@@ -1,0 +1,5 @@
+{
+  "name": "Soccer Match Predictor",
+  "description": "An AI-powered application that predicts the outcome of soccer matches. Enter two teams and get an instant prediction on the winner, complete with analysis and confidence score.",
+  "requestFramePermissions": []
+}
